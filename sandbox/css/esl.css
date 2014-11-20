@@ -18,6 +18,14 @@ h1, h2 {
 	padding-top: 15px;
 }
 
+h1 {
+	font-size: 4em;
+}
+
+h2 {
+	font-size: 2em;
+}
+
 .product-name, .section {
 	text-align: center;
 }
@@ -57,7 +65,7 @@ h1, h2 {
 	display: table;
 
 	color: #232323;
-	font-size: 1.75em;
+	font-size: 2.5em;
 
 	text-decoration: none;
 }
