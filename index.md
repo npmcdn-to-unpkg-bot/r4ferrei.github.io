@@ -1,3 +1,0 @@
----
----
-Renato Ferreira.
